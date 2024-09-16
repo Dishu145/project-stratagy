@@ -1,0 +1,116 @@
+.carousel-caption {
+   height: 600px;
+   width: 30%;
+   border-radius: 5px;
+   background-color: rgba(255, 255, 255, 0.7); 
+  border: 1px solid black;
+   bottom: 10%;
+   left: 50%;
+   
+} 
+   .carousel-caption p{
+font-size: xx-large;
+}
+.carousel-caption input{
+padding: 10px;
+width: 70%;
+border: 1px solid black;
+border-radius: 5px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+.carousel-caption button{
+width: 100px;
+background-color: blue;
+color: white;
+}
+.child{
+    border: 1px solid black;
+    /* margin-top: 20px; */
+ }
+ div.img{
+     display: flex;
+     font-size: x-large;
+     align-items: center;
+     padding: 20px;
+ 
+  } 
+  .about_left1  img{
+     
+    border-radius: 50%;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); 
+  }
+  .about_left2 img{
+     border-radius: 50%;
+     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); 
+  }
+  .about_left3 img{
+     border-radius: 50%;
+     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); 
+  }
+  .about_right1  p{
+     text-align: center;
+     font-size: xx-large;
+  }
+  .about_right2  p{
+     text-align: center;
+     font-size: xx-large;
+  }
+  .about_right3  p{
+     text-align: center;
+     font-size: xx-large;
+  }
+
+  .pricing-section {
+    background-color: #374771;
+    color: black;
+    padding: 50px 0;
+   
+}
+.parent{
+   border: 1px solid black; 
+}
+.child1 h2 , h4 {
+   text-align: center;
+}
+.child1 img{
+   display: flex;
+   justify-content: center;
+   margin-left:45%;
+}
+.contact-section {
+   background-color: #374771;
+   padding: 50px 0;
+   color: white;
+}
+
+.contact-section input {
+   background-color: #fff;
+   border: 1px solid black;
+   border-radius: 7px;
+   width: 45%;
+   margin-left: 55%;
+}
+.contact-section textarea {
+   background-color: #fff;
+   border: 1px solid black;
+   border-radius: 7px;
+   width: 45%;
+  
+}
+.contact-section button {
+   background-color: #00aaff;
+   color: white;
+   width: 13%;
+   margin-left: 60%;
+   border: none;
+   border-radius: 5px;
+   padding: 10px 20px;
+} 
+.last{
+   font-size: xx-large;
+   text-align: center;
+margin-top: 5%;
+}
+
+
+
